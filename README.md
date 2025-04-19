@@ -1,1 +1,1 @@
-Paquete instalador para el programa de control de suministros
+Paquete instalador para el programa de control de insumos
