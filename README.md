@@ -2,3 +2,4 @@ Paquete instalador para el programa de control de insumos del dpto de mantenimie
 
 desarrollado en Visual Studio 2022 
 utilizando el leguaje C#
+VERSION 1
